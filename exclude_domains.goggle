@@ -1,5 +1,5 @@
-! name: Exclude Crawl Domains
-! description: Discard results from crawl_domains.csv
+! name: Exclude Domains
+! description: Discard results from cdomains.csv
 ! public: false
 ! author: pclark
 
